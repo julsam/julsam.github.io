@@ -1,0 +1,48 @@
+.two-container {
+ width:450px;
+}
+
+
+#header #logo {
+ zoom: 1; /* HasLayout */ 
+ background:none;
+ filter: progid:DXImageTransform.Microsoft.AlphaImageLoader( 
+    src="img/icons/logo-weblab1c-web3.png", sizingMethod="image");
+}
+
+#header li a {
+ float:left;
+ padding-left:12px;
+}
+
+#header li a span {
+ float:left;
+}
+
+/* home-page testimonial */
+.home-page {
+ height:104px;
+ margin-top:15px;
+}
+/* services-page testimonial */
+.services-page {
+ height:104px;
+}
+
+#footer .three-box {
+ height:90px;
+}
+#footer .three-box .phone {
+ height:42px;
+}
+#footer .three-box .email {
+ border:1px solid #fafafa;
+}
+#footer .three-box .other {
+ height:42px;
+}
+
+.contact-container #email_bird {
+ /*background:url(img/icons/email_bird.png) no-repeat 450px 75px;*/
+ background:url(img/icons/email_bird2.png) no-repeat 512px 195px;
+}

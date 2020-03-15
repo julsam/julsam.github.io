@@ -1,0 +1,6 @@
+.gallery { 
+ padding:0;
+ border:1px solid #ffffff;
+ filter:progid:DXImageTransform.Microsoft.Shadow(color='#b3b3b3', Direction=135, Strength=8); 
+ zoom: 1; 
+}  
